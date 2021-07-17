@@ -1,3 +1,7 @@
 body{
     background-color: blue;
 }
+.puppy-cards{
+    display:flex;
+    flex-wrap: wrap;
+}
